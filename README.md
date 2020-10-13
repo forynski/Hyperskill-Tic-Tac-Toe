@@ -5,3 +5,5 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also
 
 **Result:**
 After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using methods, handling errors, and processing user input.
+
+Result: https://imgur.com/PxtkZnz
